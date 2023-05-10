@@ -8,5 +8,5 @@ Você pode entrar em contato comigo através do e-mail: cassiajtavares@live.com
 
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![](https://media.tenor.com/0HzTcVQ1D7sAAAAC/happy-sunday-good-morning.gif)
+
 
