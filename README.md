@@ -1,7 +1,8 @@
 ### Olá 👋🥰
 
-Eu estou no Alura!
-Estou me desenvolvendo na linguagem JavaScript.
+Me chamo Cassia Jackline Tavares. Tenho 31 anos e sou graduada em Licenciatura em Química.
+Atualmente sou professora de Pensamento Computacional.
+Estou me desenvolvendo na linguagem JavaScript e HTML.
 Utilizo esse espaço para organizar e compartilhar meus projetos desenvolvidos.
 
 Você pode entrar em contato comigo através do e-mail: cassiajtavares@live.com
